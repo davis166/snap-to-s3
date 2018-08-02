@@ -20,7 +20,7 @@
   "author": "Nicholas Sherlock <n.sherlock@gmail.com>",
   "license": "0BSD",
   "dependencies": {
-    "aws-sdk": "^2.193.0",
+    "aws-sdk": "2.193.0",
     "binary-split": "^1.0.3",
     "clone": "^2.1.1",
     "command-line-args": "^4.0.7",
